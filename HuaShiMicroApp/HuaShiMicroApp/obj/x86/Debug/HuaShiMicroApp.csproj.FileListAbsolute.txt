@@ -1,0 +1,11 @@
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\bin\Debug\HuaShiMicroApp.exe
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\bin\Debug\HuaShiMicroApp.pdb
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\obj\x86\Debug\HuaShiMicroApp.Properties.Resources.resources
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\obj\x86\Debug\HuaShiMicroApp.csproj.GenerateResource.Cache
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\obj\x86\Debug\HuaShiMicroApp.exe
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\obj\x86\Debug\HuaShiMicroApp.pdb
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\obj\x86\Debug\HuaShiMicroApp.LoginForm.resources
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\obj\x86\Debug\HuaShiMicroApp.ImageForm.resources
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\bin\Debug\HuaShiMicroApp.exe.config
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\obj\x86\Debug\HuaShiMicroApp.SetForm.resources
+D:\华中师范大学心理学实验小工具\C#代码\HuaShiMicroApp\HuaShiMicroApp\obj\x86\Debug\HuaShiMicroApp.PassWordForm.resources

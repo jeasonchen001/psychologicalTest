@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "心理学小程序", "HuaShiMicroApp\心理学小程序.csproj", "{008F83C1-6145-4A4E-9058-4ED6B657A02F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "心理学小测试工具", "心理学小测试工具\心理学小测试工具.vdproj", "{898B38AE-3211-42B5-90B7-9F906E227EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008F83C1-6145-4A4E-9058-4ED6B657A02F}.Debug|x86.ActiveCfg = Debug|x86
+		{008F83C1-6145-4A4E-9058-4ED6B657A02F}.Debug|x86.Build.0 = Debug|x86
+		{008F83C1-6145-4A4E-9058-4ED6B657A02F}.Release|x86.ActiveCfg = Release|x86
+		{008F83C1-6145-4A4E-9058-4ED6B657A02F}.Release|x86.Build.0 = Release|x86
+		{898B38AE-3211-42B5-90B7-9F906E227EC3}.Debug|x86.ActiveCfg = Debug
+		{898B38AE-3211-42B5-90B7-9F906E227EC3}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

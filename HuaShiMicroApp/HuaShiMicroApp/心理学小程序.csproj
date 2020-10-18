@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{008F83C1-6145-4A4E-9058-4ED6B657A02F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HuaShiMicroApp</RootNamespace>
+    <AssemblyName>华师心理学小程序</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>HuaShiMicroApp.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bean\Enum\DisappearType.cs" />
+    <Compile Include="Bean\Enum\ShowType.cs" />
+    <Compile Include="Bean\RandStatusContainer.cs" />
+    <Compile Include="Bean\State\StateInfo.cs" />
+    <Compile Include="PassWordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PassWordForm.Designer.cs">
+      <DependentUpon>PassWordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetForm.Designer.cs">
+      <DependentUpon>SetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\ControlUtils.cs" />
+    <Compile Include="Util\FileUtil.cs" />
+    <Compile Include="Bean\Result.cs" />
+    <Compile Include="Util\ConfigAppSetting.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\LayoutUtil.cs" />
+    <Compile Include="主体.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="主体.Designer.cs">
+      <DependentUpon>主体.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PassWordForm.resx">
+      <DependentUpon>PassWordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetForm.resx">
+      <DependentUpon>SetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="主体.resx">
+      <DependentUpon>主体.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\huashi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hanbing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hanbing_gaitubao_603x368.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hanbing_gaitubao_827x505.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\中国风.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zhongguofeng.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zhongguofeng2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zhongguofeng3.jpeg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
