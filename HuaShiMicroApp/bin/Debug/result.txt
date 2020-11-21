@@ -1,0 +1,201 @@
+性别: 男, 年龄: 23, 编号: 1, 学号: 2
+性别: 女, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+index: 1, useTime: 941, type: 1104, correct: True
+index: 2, useTime: 783, type: 1012, correct: False
+index: 3, useTime: 652, type: 0114, correct: False
+index: 4, useTime: 748, type: 0003, correct: True
+####################分隔线####################
+
+
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+index: 1, useTime: 1060, type: 0103, correct: True
+index: 2, useTime: 678, type: 0104, correct: True
+index: 3, useTime: 957, type: 0104, correct: True
+index: 4, useTime: 962, type: 0103, correct: True
+####################分隔线####################
+
+
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+index: 1, useTime: 581, type: 0004, correct: True
+index: 2, useTime: 792, type: 1012, correct: False
+index: 3, useTime: 781, type: 1114, correct: False
+index: 4, useTime: 631, type: 0104, correct: True
+####################分隔线####################
+
+
+性别: 男, 年龄: 31441, 编号: 13, 学号: 232
+index: 1, useTime: 546, type: 0102, correct: True
+index: 2, useTime: 1069, type: 1001, correct: True
+index: 3, useTime: 685, type: 0013, correct: False
+index: 4, useTime: 1601, type: 1111, correct: False
+####################分隔线####################
+
+
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+index: 1, useTime: 1467, type: 0103, correct: True
+index: 2, useTime: , type: 1012, correct: 
+index: 3, useTime: 559, type: 0001, correct: True
+index: 4, useTime: , type: 1113, correct: 
+####################分隔线####################
+
+
+性别: 男, 年龄: 2, 编号: 3, 学号: 4
+index: 1, useTime: 0, type: 1101, correct: False
+index: 2, useTime: 1517, type: 1014, correct: False
+index: 3, useTime: 0, type: 0001, correct: False
+index: 4, useTime: 728, type: 0112, correct: False
+####################分隔线####################
+
+
+性别: 男, 年龄: 3, 编号: 4, 学号: 5
+index: 1, useTime: null, type: 1004, correct: null
+index: 2, useTime: 1404, type: 0111, correct: False
+index: 3, useTime: null, type: 0011, correct: null
+index: 4, useTime: 763, type: 1104, correct: True
+####################分隔线####################
+
+
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 241, 编号: 1, 学号: 2
+性别: 男, 年龄: 14, 编号: 1, 学号: 2
+性别: 男, 年龄: 2, 编号: 3, 学号: 1
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 5, 编号: 6, 学号: 7
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+index: 1, useTime: 637, type: 1012, correct: False
+index: 2, useTime: null, type: 0102, correct: null
+index: 3, useTime: null, type: 0003, correct: null
+index: 4, useTime: null, type: 1112, correct: null
+####################分隔线####################
+
+
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 2, 编号: 3, 学号: 4
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+index: 1, useTime: 966, type: 1111, correct: False
+index: 2, useTime: 941, type: 1101, correct: True
+index: 3, useTime: 502, type: 0013, correct: False
+index: 4, useTime: null, type: 0002, correct: null
+####################分隔线####################
+
+
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+index: 1, useTime: 1976, type: 1001, correct: True
+index: 2, useTime: 559, type: 1104, correct: True
+index: 3, useTime: null, type: 0013, correct: null
+index: 4, useTime: 1857, type: 0113, correct: False
+####################分隔线####################
+
+
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 1, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+index: 1, useTime: 936, type: 1001, correct: True
+index: 2, useTime: 1199, type: 0011, correct: False
+index: 3, useTime: 464, type: 1114, correct: False
+index: 4, useTime: 448, type: 0101, correct: True
+####################分隔线####################
+
+
+性别: 男, 年龄: 6, 编号: 7, 学号: 8
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+性别: 男, 年龄: 1, 编号: 2, 学号: 3
+index: 1, useTime: 1116, type: 0113, correct: True
+index: 2, useTime: 1107, type: 0012, correct: True
+index: 3, useTime: 765, type: 1112, correct: True
+index: 4, useTime: 907, type: 0101, correct: True
+index: 5, useTime: 1232, type: 0112, correct: True
+index: 6, useTime: 1300, type: 1112, correct: True
+index: 7, useTime: 903, type: 1012, correct: True
+index: 8, useTime: 1218, type: 1102, correct: True
+index: 9, useTime: 934, type: 0003, correct: True
+index: 10, useTime: 1159, type: 0104, correct: True
+index: 11, useTime: 894, type: 1002, correct: True
+index: 12, useTime: 869, type: 0004, correct: True
+index: 13, useTime: 1109, type: 1102, correct: True
+index: 14, useTime: 1170, type: 1011, correct: True
+index: 15, useTime: 1238, type: 1004, correct: True
+index: 16, useTime: 1344, type: 1001, correct: True
+index: 17, useTime: 1767, type: 0101, correct: True
+index: 18, useTime: 1039, type: 1002, correct: True
+index: 19, useTime: 824, type: 0113, correct: True
+index: 20, useTime: 1063, type: 0013, correct: True
+index: 21, useTime: 934, type: 0101, correct: True
+index: 22, useTime: 1096, type: 0002, correct: True
+index: 23, useTime: 661, type: 0113, correct: True
+index: 24, useTime: 779, type: 1012, correct: True
+index: 25, useTime: 654, type: 1104, correct: True
+index: 26, useTime: 950, type: 1003, correct: True
+index: 27, useTime: 1393, type: 0111, correct: True
+index: 28, useTime: 708, type: 0112, correct: True
+index: 29, useTime: 1072, type: 0001, correct: True
+index: 30, useTime: 1092, type: 1003, correct: True
+index: 31, useTime: null, type: 1104, correct: null
+index: 32, useTime: 1020, type: 1011, correct: True
+index: 33, useTime: 1704, type: 1011, correct: True
+index: 34, useTime: 873, type: 0011, correct: True
+index: 35, useTime: null, type: 0013, correct: null
+index: 36, useTime: 1198, type: 0014, correct: True
+index: 37, useTime: 1057, type: 1103, correct: True
+index: 38, useTime: null, type: 1004, correct: null
+index: 39, useTime: null, type: 0111, correct: null
+index: 40, useTime: null, type: 1113, correct: null
+index: 41, useTime: null, type: 1011, correct: null
+index: 42, useTime: null, type: 0101, correct: null
+index: 43, useTime: null, type: 0104, correct: null
+index: 44, useTime: null, type: 1001, correct: null
+index: 45, useTime: null, type: 0011, correct: null
+index: 46, useTime: null, type: 1002, correct: null
+index: 47, useTime: null, type: 1101, correct: null
+index: 48, useTime: null, type: 1114, correct: null
+index: 49, useTime: null, type: 1103, correct: null
+index: 50, useTime: null, type: 0113, correct: null
+index: 51, useTime: null, type: 0003, correct: null
+index: 52, useTime: null, type: 0001, correct: null
+index: 53, useTime: null, type: 0114, correct: null
+index: 54, useTime: null, type: 0101, correct: null
+index: 55, useTime: null, type: 1013, correct: null
+index: 56, useTime: null, type: 0102, correct: null
+index: 57, useTime: null, type: 1013, correct: null
+index: 58, useTime: null, type: 0001, correct: null
+index: 59, useTime: null, type: 1114, correct: null
+index: 60, useTime: null, type: 1101, correct: null
+index: 61, useTime: null, type: 1111, correct: null
+index: 62, useTime: null, type: 0012, correct: null
+index: 63, useTime: null, type: 1111, correct: null
+index: 64, useTime: null, type: 0014, correct: null
+####################分隔线####################
+
+
+性别: 男, 年龄: 0, 编号: 0, 学号: 0
+性别: 男, 年龄: 0, 编号: 0, 学号: 0
